@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
     font-family: sans-serif;
   }
   body {
-    background-color: #7159c1;
+    background-color: #070707;
     height: 90vh;
     display: flex;
     flex-direction: column;

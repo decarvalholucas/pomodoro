@@ -5,8 +5,9 @@ export const Container = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #ccc;
   a {
     text-decoration: none;
-    color: #ccc;
+    color: #7159c1;
   }
 `; 

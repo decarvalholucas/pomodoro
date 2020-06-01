@@ -16,7 +16,7 @@ export const Time = styled.div`
   width: 200px;
   padding: 25px;
   text-align: center;
-  color: #fff;
+  color: #7159c1;
 `;
 
 export const ButtonsContainer = styled.div`
@@ -29,6 +29,7 @@ export const ButtonsContainer = styled.div`
   font-size: 1.3rem;
   svg {
     cursor: pointer;
+    color: #7159c1;
     &.clicked {
       transform: scale(1.2);
     }
