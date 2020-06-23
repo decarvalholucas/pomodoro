@@ -6,8 +6,8 @@ import Song from "../../assets/song.mp3";
 
 function Clock() {
   const dataTimeInitial = {
-    minute: 0,
-    second: 5,
+    minute: 25,
+    second: 0,
     intervalTime: null,
     isRunning: false,
     working: false,
